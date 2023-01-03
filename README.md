@@ -1,7 +1,7 @@
 # Did-that-flute-just-say-something 
 ☞ *Timbre transformed speech samples*
 
-### Question:
+#### Questions
 
 
 https://user-images.githubusercontent.com/83128748/210424023-7993b75a-07b8-4ce3-85a0-2a28c5b0a5bf.mp4
@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/83128748/210424017-49152f4c-3c52-4a56-
 https://user-images.githubusercontent.com/83128748/210424022-55617a21-01e1-446f-9018-c790ba5adea3.mp4
 
 
-### Statement:
+#### Statements
 
 
 https://user-images.githubusercontent.com/83128748/210424000-84a43889-873e-4930-8497-4190c031408b.mp4
