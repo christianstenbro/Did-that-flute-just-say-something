@@ -1,4 +1,4 @@
-# Did That Flute Just Say Something?
+# Did that Flute just Say Something?
 ☞ *Timbre transformed speech samples*
 
 #### Questions
