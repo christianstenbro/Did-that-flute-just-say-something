@@ -1,5 +1,5 @@
-# Did that Flute just Say Something?
-☞ *Timbre transformed speech samples*
+# Did that flute just say something?
+☞ *Collection of timbre transformed speech samples*
 
 #### Questions
 
