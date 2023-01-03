@@ -1,5 +1,5 @@
-# Did-that-flute-just-say-something
-Transformed speech samples with different timbral profiles
+# Did-that-flute-just-say-something 
+☞ *Timbre transformed speech samples*
 
 ### Question:
 
