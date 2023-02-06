@@ -3,9 +3,9 @@
 
 Created using scripts from: 
 
-⇒ Alonso, J., & Erkut, C. (2021). Explorations of Singing Voice Synthesis using DDSP. https://doi.org/10.5281/ZENODO.5043851
+* Alonso, J., & Erkut, C. (2021). Explorations of Singing Voice Synthesis using DDSP. https://doi.org/10.5281/ZENODO.5043851
 
-⇒ Engel, J., Hantrakul, L., Gu, C., & Roberts, A. (2020). DDSP: Differentiable Digital Signal Processing (arXiv:2001.04643). arXiv.        http://arxiv.org/abs/2001.04643
+* Engel, J., Hantrakul, L., Gu, C., & Roberts, A. (2020). DDSP: Differentiable Digital Signal Processing (arXiv:2001.04643). arXiv.        http://arxiv.org/abs/2001.04643
 
 . . . to train a unique model using synthesized watery sounds and perform timbre transfer operations on declaratives functioning as either questions or statements, signalled via pitch contour changes.
 
@@ -32,4 +32,4 @@ https://user-images.githubusercontent.com/83128748/210424015-ded40b88-3c8b-4aa3-
 
 https://user-images.githubusercontent.com/83128748/210424003-d5c3d143-5bbe-4ae1-b53c-07127be50d68.mp4
 
-* See the attatched paper for descriptions of the process as well as experimental testing of the stimuli *
+*See the attatched paper for descriptions of the process as well as experimental testing of the stimuli.*
