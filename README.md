@@ -1,6 +1,14 @@
 # Did that flute just say something?
 ☞ *Collection of timbre transformed speech samples*
 
+Created using scripts from: 
+
+Alonso, J., & Erkut, C. (2021). Explorations of Singing Voice Synthesis using DDSP. https://doi.org/10.5281/ZENODO.5043851
+
+Engel, J., Hantrakul, L., Gu, C., & Roberts, A. (2020). DDSP: Differentiable Digital Signal Processing (arXiv:2001.04643). arXiv. http://arxiv.org/abs/2001.04643
+
+. . . to train a unique model using synthesized watery sounds and perform timbre transfer operations on declaratives functioning as either questions or statements, signalled via pitch contour changes.
+
 #### Questions
 
 
